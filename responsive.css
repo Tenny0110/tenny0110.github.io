@@ -1,0 +1,26 @@
+@media (max-width: 740px) {
+    .navbar .menu-mobile {
+        display: block;
+    }
+
+    .navbar li {
+        display: none;
+    }
+
+    .content h1{
+        font-size: 38px;
+    }
+
+    .content p {
+        font-size: 17px;
+    }
+
+    .social-list {
+        display: none;
+    }
+
+    .footer__social-list {
+        display: block;
+    }
+    
+}
