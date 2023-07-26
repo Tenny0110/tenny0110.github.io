@@ -9,7 +9,7 @@ body {
 }
 
 .banner {
-    background-image: linear-gradient(rgba(77, 77, 57, 0.5), rgba(123, 228, 188, 0.5)), url(./assets/main\ pic.png);
+    background-image: url(./assets/Screenshot\ 2023-07-25\ 025625.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
